@@ -1,22 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Eskøy</title>
-
-    <link rel="icon" href="images/icon.png">
-    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.css" />
-    <link rel="stylesheet" href="css/site.css" />
-
-</head>
-<body>
-
-    <script src="lib/jquery/dist/jquery.js"></script>
-    <script src="lib/bootstrap/dist/js/bootstrap.js"></script>
-    <script src="js/site.js" asp-append-version="true"></script>
-
 <div id="fb-root">
 </div>
 <script>(function (d, s, id) {
@@ -32,14 +13,14 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="images/FrontPageImage4.jpg" alt="Image">
+      <img src="public/images/FrontPageImage4.jpg" alt="Image">
       <div class="carousel-caption">
         <h1>Velkomen til Eskøy as</h1>
       </div>
     </div>
 
     <div class="item">
-      <img src="images/FrontPageImage1.jpg" alt="Image">
+      <img src="public/images/FrontPageImage1.jpg" alt="Image">
       <div class="carousel-caption">
         <h1>Velkomen til Eskøy as</h1>
       </div>
@@ -75,7 +56,9 @@
           </iframe>
       </div>
       <div class="row">
-
+          <h1>
+      <span class="flag-icon flag-icon-gr"></span>
+          </h1>
       <h3>Kontakt oss</h3>
       </div>
       <div class="row">
@@ -86,7 +69,7 @@
                     <strong>Hrafn Sigvaldasson</strong>
                 </li>
                 <li>Tlf: +47 906 95 772</li>
-                <li>E-post: hrafn@@eskøy.no</li>
+                <li>E-post: hrafn@eskøy.no</li>
             </ol>
         </div>
         <div class="col-sm-12 col-md-12 col-lg-6">
@@ -95,7 +78,7 @@
                     <strong>Helgi Sigvaldasson</strong>
                 </li>
                 <li>Tlf: +47 957 84 028</li>
-                <li>E-post: helgi@@eskøy.no</li>
+                <li>E-post: helgi@eskøy.no</li>
             </ol>
         </div>
         <div class="col-sm-12 col-md-12 col-lg-6">
@@ -104,11 +87,9 @@
                     <strong>Rakel Jónsdóttir</strong>
                 </li>
                 <li>Tlf: +47 469 08 701</li>
-                <li>E-post: rakel@@eskøy.no</li>
+                <li>E-post: rakel@eskøy.no</li>
             </ol>
         </div>
     </div>
   </div>
 </div>
-</body>
-</html>
