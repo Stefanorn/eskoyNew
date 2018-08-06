@@ -1,3 +1,3 @@
 <?php 
 
-define('URL', 'http://localhost:8888/eskoyNew/');
+define('URL', 'https://www.eskoy.no/history');
