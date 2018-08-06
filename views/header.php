@@ -5,16 +5,16 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Eskøy</title>
 
-    <link rel="icon" href="public/images/icon.png">
-    <link rel="stylesheet" href="public/lib/bootstrap/dist/css/bootstrap.css" />
-    <link rel="stylesheet" href="public/css/site.css" />
+    <link rel="icon" href="<?php echo URL;?>public/images/icon.png">
+    <link rel="stylesheet" href="<?php echo URL;?>public/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="<?php echo URL;?>public/css/site.css" />
 
 </head>
 <body>
 
-    <script src="public/lib/jquery/dist/jquery.js"></script>
-    <script src="public/lib/bootstrap/dist/js/bootstrap.js"></script>
-    <script src="public/js/site.js"></script>
+    <script src="<?php echo URL;?>public/lib/jquery/dist/jquery.js"></script>
+    <script src="<?php echo URL;?>public/lib/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="<?php echo URL;?>public/js/site.js"></script>
     
 
 
@@ -42,12 +42,12 @@
                     <li><a class="navbar-button" asp-area="" asp-controller="Home" asp-action="Fisketjeneste">Fisketjeneste</a></li>
                 </ul>
                 <div class="nav navbar-nav navbar-right padding-left-smallscreen" style="height: 50px;">
-                    <select class="laungauge-picker" style="margin-top: 15px" >
+        <!--            <select class="laungauge-picker" style="margin-top: 15px" >
                          
                         <option value="" hidden selected>Nosk</option>
                         <option value="english">English</option>
                         <option value="norwegian">Nosk</option>
-                    </select>
+                    </select> -->
                 </div>
 
             </div>
