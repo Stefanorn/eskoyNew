@@ -5,6 +5,8 @@ class index extends Controller{
         parent::__construct();
     }
     function index(){
+        $this->view->bannerImages = array(  'FrontPageImage4.jpg',
+                                            'FrontPageImage1.jpg' );
         $this->view->render('index/index');
     }
 }

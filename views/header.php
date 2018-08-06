@@ -35,11 +35,11 @@
                 <ul class="nav nav-text-color navbar-nav padding-left-smallscreen">
                     <li><a href="<?php echo URL;?>index">Hjem</a></li>
                 <!--    <li><a class="navbar-button" asp-area="" asp-controller="Home" asp-action="kontaktinformasjon">Kontakt oss</a></li> -->
-                    <li><a class="navbar-button" asp-area="" asp-controller="Home" asp-action="Historie">historie</a></li>
-                    <li><a class="navbar-button" asp-area="" asp-controller="Home" asp-action="Vareskip">Våre skip</a></li>
-                    <li><a class="navbar-button" asp-area="" asp-controller="Home" asp-action="Jobbsokander">Jobbsøknader</a></li>
-                    <li><a class="navbar-button" asp-area="" asp-controller="Home" asp-action="Tilskudd">Tilskudd</a></li>
-                    <li><a class="navbar-button" asp-area="" asp-controller="Home" asp-action="Fisketjeneste">Fisketjeneste</a></li>
+                    <li><a href="<?php echo URL;?>history">historie</a></li>
+                    <li><a href="<?php echo URL;?>our_ship">Våre skip</a></li>
+                    <li><a href="<?php echo URL;?>jobs">Jobbsøknader</a></li>
+                    <li><a href="<?php echo URL;?>grants">Tilskudd</a></li>
+                    <li><a href="<?php echo URL;?>fish_service">Fisketjeneste</a></li>
                 </ul>
                 <div class="nav navbar-nav navbar-right padding-left-smallscreen" style="height: 50px;">
         <!--            <select class="laungauge-picker" style="margin-top: 15px" >
