@@ -28,12 +28,12 @@
                     <span class="icon-bar" style="background-color: red"></span>
                 </button>
                 <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">
-                    <img class="logo" src="public/images/logo.png" alt="Eskøy">
+                    <img class="logo" src="<?php echo URL;?>public/images/logo.png" alt="Eskøy">
                 </a>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav nav-text-color navbar-nav padding-left-smallscreen">
-                    <li><a class="navbar-button" asp-area="" asp-controller="Home" asp-action="Index">Hjem</a></li>
+                    <li><a href="<?php echo URL;?>index">Hjem</a></li>
                 <!--    <li><a class="navbar-button" asp-area="" asp-controller="Home" asp-action="kontaktinformasjon">Kontakt oss</a></li> -->
                     <li><a class="navbar-button" asp-area="" asp-controller="Home" asp-action="Historie">historie</a></li>
                     <li><a class="navbar-button" asp-area="" asp-controller="Home" asp-action="Vareskip">Våre skip</a></li>
