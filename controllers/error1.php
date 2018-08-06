@@ -5,8 +5,8 @@ class error1 extends Controller{
         parent::__construct();
     }
     function index(){
-
-        $this->view->msg = 'the page doese not exist'; 
+        $this->view->bannerImages = array(  'FrontPageImage4.jpg',
+                                            'FrontPageImage1.jpg' );
         $this->view->render('error/index');
     }
 }

@@ -5,6 +5,8 @@ class history extends Controller{
         parent::__construct();
     }
     function index(){
+        $this->view->bannerImages = array(  'historyBanner1.jpeg',
+        'historyBanner2.jpeg' );
         $this->view->render('history/index');
     }
 }

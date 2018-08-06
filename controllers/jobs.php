@@ -5,6 +5,9 @@ class jobs extends Controller{
         parent::__construct();
     }
     function index(){
+        $this->view->bannerImages = array(  'jobbbanner1.jpeg',
+        'jobbbanner2.jpeg' );
         $this->view->render('jobs/index');
+
     }
 }
