@@ -5,8 +5,11 @@ class fish_service extends Controller{
         parent::__construct();
     }
     function index(){
+        $jsonData = file_get_contents('public/fish-serviceData.json');
+        $json = json_decode($jsonData, true);
+        $this->view->siteData = $json;
         $this->view->bannerImages = array(  'fisktjenestebanner1.jpeg',
         'fisktjenestebanner3.JPG', 'fisktjenestebanner4.JPG' );
-        $this->view->render('fish_service/index');
+        $this->view->renderSite();
     }
 }

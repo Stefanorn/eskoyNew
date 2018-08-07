@@ -1,0 +1,25 @@
+    {
+        "Laungauge": "Norwegan",
+        "Title": "History",
+        "Carousel": [
+            {
+                "Title": "Historie",
+                "Subtitle": "",
+                "Image": "/images/historyBanner2.jpeg"
+            },
+            {
+                "Title": "Historie",
+                "Subtitle": "",
+                "Image": "/images/historyBanner1.jpeg"
+            }
+        ],
+        "Cards": [
+            {
+                "Title": "Comming soon",
+                "Body": "",
+                "BodyMore": "",
+                "Image": "public/images/sagak-prev.jpg",
+                "Button": ""
+            }
+        ]
+    }
