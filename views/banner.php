@@ -33,4 +33,4 @@
 
 <h2 hidden class="show-on-small-screens text-center">Velkomen til Eskøy as</h2>
 
-<div class="container padding-top-50 text-center slide-me-in-secound">
+<div class="container padding-top-50 text-center">

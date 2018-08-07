@@ -1,0 +1,39 @@
+    {
+        "Laungauge": "Norwegan",
+        "Title": "History",
+        "Carousel": [
+            {
+                "Title": "Historie",
+                "Subtitle": "",
+                "Image": "/images/historyBanner2.jpeg"
+            },
+            {
+                "Title": "Historie",
+                "Subtitle": "",
+                "Image": "/images/historyBanner1.jpeg"
+            }
+        ],
+        "Cards": [
+            {
+                "Title": "side 1",
+                "Body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum assumenda sapiente, provident ducimus eius unde vitae repellat, dicta nesciunt maxime culpa doloremque expedita fugit repudiandae incidunt laborum consequatur necessitatibus? Iusto!",
+                "BodyMore": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum assumenda sapiente, provident ducimus eius unde vitae repellat, dicta nesciunt maxime culpa doloremque expedita fugit repudiandae incidunt laborum consequatur necessitatibus? Iusto!",
+                "Image": "public/images/history4.jpg",
+                "Button": "Read More"
+            },
+            {
+                "Title": "side 2",
+                "Body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum assumenda sapiente, provident ducimus eius unde vitae repellat, dicta nesciunt maxime culpa doloremque expedita fugit repudiandae incidunt laborum consequatur necessitatibus? Iusto!",
+                "BodyMore": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum assumenda sapiente, provident ducimus eius unde vitae repellat, dicta nesciunt maxime culpa doloremque expedita fugit repudiandae incidunt laborum consequatur necessitatibus? Iusto!",
+                "Image": "public/images/history2.jpg",
+                "Button": "Read More"
+            },
+            {
+                "Title": "side 3",
+                "Body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum assumenda sapiente, provident ducimus eius unde vitae repellat, dicta nesciunt maxime culpa doloremque expedita fugit repudiandae incidunt laborum consequatur necessitatibus? Iusto!",
+                "BodyMore": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum assumenda sapiente, provident ducimus eius unde vitae repellat, dicta nesciunt maxime culpa doloremque expedita fugit repudiandae incidunt laborum consequatur necessitatibus? Iusto!",
+                "Image": "public/images/history2.jpg",
+                "Button": "Read More"
+            }
+        ]
+    }
