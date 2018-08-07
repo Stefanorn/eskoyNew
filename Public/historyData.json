@@ -5,12 +5,12 @@
             {
                 "Title": "Historie",
                 "Subtitle": "",
-                "Image": "public/images/historyBanner2.jpeg"
+                "Image": "Public/images/historyBanner2.jpeg"
             },
             {
                 "Title": "Historie",
                 "Subtitle": "",
-                "Image": "public/images/historyBanner1.jpeg"
+                "Image": "Public/images/historyBanner1.jpeg"
             }
         ],
         "Cards": [
@@ -18,7 +18,7 @@
                 "Title": "Comming soon",
                 "Body": "",
                 "BodyMore": "",
-                "Image": "public/images/history2.jpg",
+                "Image": "Public/images/history2.jpg",
                 "Button": ""
             }
         ]

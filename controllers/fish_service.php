@@ -5,7 +5,7 @@ class fish_service extends Controller{
         parent::__construct();
     }
     function index(){
-        $jsonData = file_get_contents('public/fish-serviceData.json');
+        $jsonData = file_get_contents('Public/fish-serviceData.json');
         $json = json_decode($jsonData, true);
         $this->view->siteData = $json;
         $this->view->bannerImages = array(  'fisktjenestebanner1.jpeg',

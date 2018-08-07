@@ -6,7 +6,7 @@ class history extends Controller{
     }
     function index(){
         
-        $jsonData = file_get_contents('public/historyData.json');
+        $jsonData = file_get_contents('Public/historyData.json');
         $json = json_decode($jsonData, true);
         $this->view->siteData = $json;
         $this->view->bannerImages = array(  'historyBanner1.jpeg',

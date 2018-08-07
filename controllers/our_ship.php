@@ -6,7 +6,7 @@ class our_ship extends Controller{
     }
     function index(){
 
-        $jsonData = file_get_contents('public/our-shipData.json');
+        $jsonData = file_get_contents('Public/our-shipData.json');
         $json = json_decode($jsonData, true);
         $this->view->siteData = $json;
         $this->view->bannerImages = array(  'skipbanner1.jpeg',

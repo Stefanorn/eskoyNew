@@ -5,16 +5,16 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Eskøy</title>
 
-    <link rel="icon" href="<?php echo URL;?>public/images/icon.png">
-    <link rel="stylesheet" href="<?php echo URL;?>public/lib/bootstrap/dist/css/bootstrap.css" />
-    <link rel="stylesheet" href="<?php echo URL;?>public/css/site.css" />
+    <link rel="icon" href="<?php echo URL;?>Public/images/icon.png">
+    <link rel="stylesheet" href="<?php echo URL;?>Public/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="<?php echo URL;?>Public/css/site.css" />
 
 </head>
 <body>
 
-    <script src="<?php echo URL;?>public/lib/jquery/dist/jquery.js"></script>
-    <script src="<?php echo URL;?>public/lib/bootstrap/dist/js/bootstrap.js"></script>
-    <script src="<?php echo URL;?>public/js/site.js"></script>
+    <script src="<?php echo URL;?>Public/lib/jquery/dist/jquery.js"></script>
+    <script src="<?php echo URL;?>Public/lib/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="<?php echo URL;?>Public/js/site.js"></script>
     
 
 
@@ -28,7 +28,7 @@
                     <span class="icon-bar" style="background-color: red"></span>
                 </button>
                 <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">
-                    <img class="logo" src="<?php echo URL;?>public/images/logo.png" alt="Eskøy">
+                    <img class="logo" src="<?php echo URL;?>Public/images/logo.png" alt="Eskøy">
                 </a>
             </div>
             <div class="navbar-collapse collapse">

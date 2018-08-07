@@ -5,14 +5,14 @@
 
   <?php 
        echo '<div class="item active">
-       <img src="'. URL .'public/images/'. $this->bannerImages[0] .'" alt="Image">
+       <img src="'. URL .'Public/images/'. $this->bannerImages[0] .'" alt="Image">
        <div class="carousel-caption">
        <h1>Velkomen til Eskøy as</h1> 
        </div>
        </div>';
     for($i = 1; $i < sizeof($this->bannerImages); $i++){
       echo '<div class="item">
-            <img src="'. URL .'public/images/'. $this->bannerImages[$i] .'" alt="Image">
+            <img src="'. URL .'Public/images/'. $this->bannerImages[$i] .'" alt="Image">
             <div class="carousel-caption">
             <h1>Velkomen til Eskøy as</h1> 
             </div>
