@@ -1,3 +1,4 @@
+<div class="slide-me-in-secound">
 <div id="fb-root">
 </div>
 <script>(function (d, s, id) {
@@ -61,4 +62,5 @@
         </div>
     </div>
   </div>
+</div>
 </div>

@@ -2,11 +2,18 @@
 
 
 $( document ).ready(function() {
+    
+    $('.slide-me-in').hide();
+    $('.slide-me-in-secound').hide();
+    $('.slide-me-in-third').hide();
+    window.addEventListener('load', function(){
 
-    var slideSpeed = 700;
-    $('.slide-me-in').hide().slideDown(slideSpeed);
-    $('.slide-me-in-secound').hide().delay(slideSpeed * 0.5).slideDown(slideSpeed); 
-    $('.slide-me-in-third').hide().delay(slideSpeed * 1).slideDown(slideSpeed); 
+        var slideSpeed = 700;
+        $('.slide-me-in').slideDown(slideSpeed);
+        $('.slide-me-in-secound').delay(slideSpeed * 0.5).slideDown(slideSpeed); 
+        $('.slide-me-in-third').delay(slideSpeed * 1).slideDown(slideSpeed); 
+
+    });
 
     $(".navbar-button").hover(function () {
             $(this).animate({ fontSize: '20px' }, "fast");
