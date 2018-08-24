@@ -66,7 +66,14 @@ class bootstrap {
         if ($length > 1) {
             if (!method_exists($this->_controller, $this->_url[1])) {
                 $this->_error();
+                return false;
             }
+            $reflection = new ReflectionMethod($this->_controller, $this->_url[1]);
+            if ($reflection->isPrivate()) {
+                $this->_error();
+                return false;
+            }
+     
         }
    
         // Determine what to load
