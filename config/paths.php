@@ -1,7 +1,7 @@
 <?php 
 
-define('URL', 'https://www.eskoy.no/');
-//define('URL', 'http://localhost:8888/eskoyNew/');
+//define('URL', 'https://www.eskoy.no/');
+define('URL', 'http://localhost:8888/eskoyNew/');
 define('EmailLogin', '');
 define('EmailPasword','');
 define('EmailPort', '465');

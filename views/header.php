@@ -38,7 +38,7 @@
                     <li><a href="<?php echo URL;?>history">historie</a></li>
                     <li><a href="<?php echo URL;?>our_ship">Våre skip</a></li>
                     <li><a href="<?php echo URL;?>jobs">Jobbsøknader</a></li>
-                    <li><a href="<?php echo URL;?>grants">Tilskudd</a></li>
+                    <li><a href="<?php echo URL;?>kontakt_oss">Kontatk oss</a></li>
                     <li><a href="<?php echo URL;?>fish_service">Fisketjeneste</a></li>
                 </ul>
                 <div class="nav navbar-nav navbar-right padding-left-smallscreen" style="height: 50px;">
