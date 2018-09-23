@@ -16,16 +16,16 @@
         "Cards": [
             {
                 "Title": "Kontakt oss",
-                "Body": "<ol style='list-style-type:none'><li><strong>Hrafn Sigvaldasson</strong></li><li>Tlf: +47 906 95 772</li><li>E-post: hrafn@eskøy.no</li></ol><ol style='list-style-type:none'>     <li>         <strong>Helgi Sigvaldasson</strong>     </li>     <li>Tlf: +47 957 84 028</li>     <li>E-post: helgi@eskøy.no</li> </ol> <ol style='list-style-type:none'> <li>     <strong>Rakel Jónsdóttir</strong> </li> <li>Tlf: +47 469 08 701</li> <li>E-post: rakel@eskøy.no</li></ol>",
+                "Body": "<ol style='list-style-type:none'><li><strong>Hrafn Sigvaldasson</strong></li><li>Tlf: +47 906 95 772</li><li>E-post: hrafn@eskoy.no</li></ol><ol style='list-style-type:none'>     <li>         <strong>Helgi Sigvaldasson</strong>     </li>     <li>Tlf: +47 957 84 028</li>     <li>E-post: helgi@eskoy.no</li> </ol> <ol style='list-style-type:none'> <li>     <strong>Rakel Jónsdóttir</strong> </li> <li>Tlf: +47 469 08 701</li> <li>E-post: rakel@eskoy.no</li></ol>",
                 "BodyMore": "",
                 "Image": "Public/images/history2.jpg",
                 "Button": ""
             },
             {
-                "Title": "Ask for Grants",
-                "Body": "Send email to hrafn@email.com to ask for grant ok",
+                "Title": "Tilskudd",
+                "Body": "Vi er alltid åpne for å hjelpe de som er i nød, send e-post til hrafn@eskoy.no for mer informasjon.",
                 "BodyMore": "",
-                "Image": "Public/images/history2.jpg",
+                "Image": "Public/images/falleg-mynd.jpeg",
                 "Button": ""
             }
         ]
