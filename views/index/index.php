@@ -22,9 +22,8 @@
     </div>
     <div class="col-lg-8 col-md-6 col-sm-12">
       <div class="row">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1299.2090499558417!2d25.957245216568772!3d70.99618378712938!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x45c9a957c8a8497d%3A0xf5a4cd6901a26ae6!2sKobbhullveien+12%2C+9750+Honningsv%C3%A5g%2C+Noregur!5e0!3m2!1sis!2sis!4v1527504505596" width="90%" height="450" frameborder="0" style="border:0" allowfullscreen>
-          </iframe>
-      </div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d83197.44309755706!2d25.927162!3d70.984777!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x45c9a957c8a8497d%3A0xf5a4cd6901a26ae6!2sKobbhullveien+12%2C+9750+Honningsv%C3%A5g%2C+Noregur!5e0!3m2!1sis!2sis!4v1537746126651" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>	
+</div>
       <div class="row">
           <h1>
       <span class="flag-icon flag-icon-gr"></span>
@@ -39,7 +38,7 @@
                     <strong>Hrafn Sigvaldasson</strong>
                 </li>
                 <li>Tlf: +47 906 95 772</li>
-                <li>E-post: hrafn@eskøy.no</li>
+                <li>E-post: hrafn@eskoy.no</li>
             </ol>
         </div>
         <div class="col-sm-12 col-md-12 col-lg-6">
@@ -48,7 +47,7 @@
                     <strong>Helgi Sigvaldasson</strong>
                 </li>
                 <li>Tlf: +47 957 84 028</li>
-                <li>E-post: helgi@eskøy.no</li>
+                <li>E-post: helgi@eskoy.no</li>
             </ol>
         </div>
         <div class="col-sm-12 col-md-12 col-lg-6">
@@ -57,7 +56,7 @@
                     <strong>Rakel Jónsdóttir</strong>
                 </li>
                 <li>Tlf: +47 469 08 701</li>
-                <li>E-post: rakel@eskøy.no</li>
+                <li>E-post: rakel@eskoy.no</li>
             </ol>
         </div>
     </div>

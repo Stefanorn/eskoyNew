@@ -20,6 +20,34 @@
                 "BodyMore": "",
                 "Image": "Public/images/madur-ad-vinna.jpg",
                 "Button": ""
+            },
+            {
+                "Title": "MS Saga K T-20-T",
+                "Body": "<ul style='list-style-type:none'><li>Den fikk vi levert Mars 2008, fra Trefjar Hafnarfjordur</li><li>leopatra Speedsjark 36 foot.</li><li>Autoline anlegg på 13.000.- krok.</li><li>Yanmar 700 hestekrefter hovedmotor.</li></ul>",
+                "BodyMore": "Saga K T-20-T bli total havert under fiske i desember 2010, når den bli treft av mønsterbølge. Alle 3 i besettning bli tatt opp av 330 skvadron helekopter.",
+                "Image": "Public/images/history2.jpg",
+                "Button": "Les mer"
+            },
+            {
+                "Title": "Åsta B T-3-T / F-333-NK",
+                "Body": "<ul style='list-style-type:none'><li>Cleopatra Speedsjark 50 foot.</li><li>Autoline anlegg på 23.000,- krok.</li><li>Yanmar 990 hestekrefte hovedmotor.</li><li>2x Westerbake hjelpemotorer Slush Ismaskin</li></ul>",
+                "BodyMore": "Åsta B Endrede Navn til Viktoria H i 2016. Endrede registerings merke til F-333-NK i 2016.<br>Hun bli solgt i årskifte 2016/17.",
+                "Image": "Public/images/sagak-prev.jpg",
+                "Button": "les mer"
+            },
+            {
+                "Title": "MS Saga K T-7-T / F-777-NK.",
+                "Body": "<ul style='list-style-type:none'><li>Hun bli kontrahert i starten av 2011 <br> og overlevert til Eskøy AS i julen 2011.</li><li>De er Seigur 1500WV . Bygget på Akureyri Island.</li><li>Autoline anlegg på 32.000.- krok</li><li>Yanmar 990 hestekrefte hovedmotor.</li><li>2x Kholer hjelpemotorer</li>Slush Ismaskin</li></ul>",
+                "BodyMore": "Åsta B Endrede Navn til Viktoria H i 2016. Endrede registerings merke til F-333-NK i 2016.<br>Hun bli solgt i årskifte 2016/17.",
+                "Image": "Public/images/sagak-prev.jpg",
+                "Button": "les mer"
+            },            
+            {
+                "Title": "Valdimar H F-185-NK",
+                "Body": "Den hovdingen var bygt i Karb Mekaniskt verksted i Harstad i 1968. Han var bygd i DNV isklasse og holder sin klasse fortsatt i dag. I dag er hann rigget for autoline med 38.000,- krok.<br>Solid båt som har hatt lang og god historie med fangst.<br>Han tar ca 180 460L Kar ombord. ",
+                "BodyMore": "",
+                "Image": "Public/images/valdimarPrev.jpeg",
+                "Button": ""
             }
         ]
     }

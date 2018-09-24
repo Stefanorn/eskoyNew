@@ -20,13 +20,6 @@
                 "BodyMore": "",
                 "Image": "Public/images/history2.jpg",
                 "Button": ""
-            },
-            {
-                "Title": "Tilskudd",
-                "Body": "Vi er alltid åpne for å hjelpe de som er i nød, send e-post til hrafn@eskoy.no for mer informasjon.",
-                "BodyMore": "",
-                "Image": "Public/images/falleg-mynd.jpeg",
-                "Button": ""
             }
         ]
     }
